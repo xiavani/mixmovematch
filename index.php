@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>CodeByte | Mixmovematchx</title>
+	<title>CodeByte | Mixmovematch</title>
 	<meta charset="utf-8">
 	<meta name="author" content="Xiavani">
 	<meta name="describe" content="Personal website">
