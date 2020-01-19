@@ -19,7 +19,6 @@
 <body onload="start()">
 <center>
 
-
 <div class="header">
   <div class="header_limit">
   	<a href="#"><img src="assets/imgs/logoCodeceyCom.png" class="header_logo"/></a>
