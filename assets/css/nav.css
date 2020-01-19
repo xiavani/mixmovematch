@@ -1,0 +1,34 @@
+body, html {
+  margin: 0;
+  padding: 0;
+  text-align: -webkit-center;
+  font-family: 'Quicksand', sans-serif;
+  background-color: rgb(35, 35, 35)
+}
+
+.header {
+  width: 100%;
+  height: 65px;
+  background-color: rgb(35, 35, 35);
+}
+
+.header_limit {
+  max-width: 1280px;
+  height: 65px;
+}
+
+.header_logo {
+  height: 40px;
+  margin-top: 12.5px;
+  margin-left: 20px;
+  float: left;
+}
+
+.header_path {
+  font-size: 16px;
+  margin-top: 22.5px;
+  margin-bottom: 22.5px;
+  margin-right: 20px;
+  float: right;
+  color: #dcdcdc;
+}
